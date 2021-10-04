@@ -47,6 +47,14 @@
       & p > a {
         color: $secondary-color;
       }
+
+      &-highlight {
+        color: $primary-color;
+      }
+
+      &-desc {
+        color: $p_desc;
+      }
     }
 
     &__image {
